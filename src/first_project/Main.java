@@ -1,3 +1,5 @@
+package first_project;
+
 import java.util.Arrays;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
@@ -25,6 +27,5 @@ public class Main {
     public static void main(String[] args) {
         int[] mas = {2,3,4,5,6,1};
         Main.find_more(mas);
-
     }
 }
